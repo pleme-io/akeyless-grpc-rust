@@ -11,11 +11,11 @@
 
 ## Introduction
 
-The `akeyless-grpc` library provides a convenient way to interact with the Akeyless API using gRPC.
+The `akeyless_grpc` library provides a convenient way to interact with the Akeyless API using gRPC.
 
 ## Installation
 
-To use `akeyless-grpc` in your project, run the following command `cargo add akeyless-grpc`
+To use `akeyless_grpc` in your project, run the following command `cargo add akeyless_grpc`
 
 ## Example
 
